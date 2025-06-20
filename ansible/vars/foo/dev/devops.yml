@@ -3,7 +3,7 @@ users_deploy_user: deploy
 users_deploy_group: deploy
 
 # App git repo
-app_repo: https://github.com/cogini/elixir-deploy-template
+app_repo: git@github.com:Datafly-Solucoes-Tecnologicas-Ltda/app_backend.git
 # App Version, can be branch name, SHA-1, tag name, default to HEAD
 # app_version: HEAD
 

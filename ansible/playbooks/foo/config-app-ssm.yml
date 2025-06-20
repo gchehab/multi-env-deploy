@@ -13,7 +13,7 @@
   gather_facts: false
   connection: local
   vars:
-    org_unique: cogini
+    org_unique: datafly
     app_name: foo
     key_prefix: "/{{ org_unique }}"
   vars_files:

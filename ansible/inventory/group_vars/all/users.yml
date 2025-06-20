@@ -28,3 +28,11 @@
 # with sudo rights, e.g. for your ops team or senior tech leads.
 # users_global_admin_users:
 #  - jake
+
+users_global_admin_users:
+  - user: gchehab
+    name: 'Guilherme Chehab'
+    github: gchehab
+  - user: datafly
+    name: 'Datafly'
+    github: datafly

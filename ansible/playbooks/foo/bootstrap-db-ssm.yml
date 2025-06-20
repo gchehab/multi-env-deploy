@@ -13,9 +13,9 @@
   gather_facts: false
   connection: local
   vars:
-    app_name: foo
+    app_name: app
     comp: app
-    key_prefix: /cogini
+    key_prefix: /datafly
   vars_files:
     - ../../vars/{{ app_name }}/{{ env }}/common.yml
     - ../../vars/{{ app_name }}/{{ env }}/{{ comp }}-db.yml
